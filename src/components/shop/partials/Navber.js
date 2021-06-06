@@ -376,9 +376,11 @@ const Navber = (props) => {
             </span>
             <span
               className="font-medium text-lg tracking-widest hover:text-gray-800 hover:bg-gray-200 px-3 py-2 rounded-lg cursor-pointer"
-              onClick={(e) => history.push("/blog")}
+              onClick={(e) => history.push("/Policy")}
+
+              
             >
-              Blog
+              Privacy Policy
             </span>
             <span
               className="font-medium text-lg tracking-widest hover:text-gray-800 hover:bg-gray-200 px-3 py-2 rounded-lg cursor-pointer"
